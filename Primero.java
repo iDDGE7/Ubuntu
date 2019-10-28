@@ -2,6 +2,6 @@ class Primero
 {
 	static public void main(String args[])
 	{
-		print("Creado desde Ubuntu");
+		System.out.print("Creado desde Ubuntu");
 	}
 }
